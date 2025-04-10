@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+```bash
+curl https://raw.githubusercontent.com/butlanys/getfiles/main/getfiles.sh | bash
+```
+
 一个简单的 Bash 脚本，用于快速生成项目结构和选定文件内容的概览，旨在作为上下文提供给大型语言模型（LLM）或 AI 助手。
 
 它会自动：
